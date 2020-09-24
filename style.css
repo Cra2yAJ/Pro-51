@@ -1,0 +1,22 @@
+.header{
+    background-color: darkturquoise;
+    text-align: right;
+    border: #000000;
+    border-bottom-style: solid;
+}
+.link{
+    text-align: left;
+}
+.head{
+    text-align: center;
+}
+.all{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 30px;
+    margin: 25px;
+}
+.camel{
+    padding: 30px;
+    margin: 25px;
+}
